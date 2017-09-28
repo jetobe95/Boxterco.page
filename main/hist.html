@@ -1,0 +1,312 @@
+<!DOCTYPE html>
+<html lang = "en"> <!-- Determina el lenguaje de la pág-->
+<head>
+  <meta charset = "UTF-8">
+  <title>Mi Coordenada Geográfica</title>
+  <link rel = "stylesheet" href = "style/bootstrap.css" />
+  <link rel = "stylesheet" href = "style/main.css" />
+  <link rel = "stylesheet" href = "style/bootstrap-slider.min.css" />
+  <!-- Include Required Prerequisites -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/jquery/1/jquery.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/momentjs/latest/moment.min.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap/3/css/bootstrap.css" />
+
+<!-- Include Date Range Picker -->
+<script type="text/javascript" src="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.js"></script>
+<link rel="stylesheet" type="text/css" href="//cdn.jsdelivr.net/bootstrap.daterangepicker/2/daterangepicker.css" />
+
+  <style>
+    #map {
+      width: 100%;
+      height: 400px;
+    }
+
+  </style>
+</head>
+
+<body>
+
+
+
+  <div class = "container">
+    <div class="row">
+      <div class="col-md-4">
+
+        <strong><h5 style = "color: #110111">Fecha de inicio:</h5></strong>
+          <form action = "action_page.php">
+           <input  type="datetime" name="inicionm"  id="inicio" />
+
+          </form>
+
+
+      <strong><h5 style = "color: #110111">Fecha de fin:</h5></strong>
+          <form action = "action_page.php">
+          <input type="datetime" name="finnm"  id="fin" />
+          </form>
+          <span>Location:</span><input type="text" id="txtautocomplete" style="width:200px" placeholder="Enter the address"/><br/><br/>
+          <br>
+          <button onclick = "holo1()" id="ex20al" class="btn btn-primary">Enviar</button>
+
+
+      </div>
+
+      <div class="col-md-4">
+        <br>
+        <strong><h4><div id = "fechAct"></div></h4></strong>
+      </div>
+    </div>
+  </div>
+
+  <br>
+
+  <div id = "map2" style="width: 100%; height: 800px"></div>  <!-- Muestra el mapa en la página con el id que puse abajo en el InitMap -->
+
+
+
+
+  <script type="text/javascript">
+    var map; // creamos variables
+    var marker;
+    var coordenadas;
+    var enn ="";
+    var misaka=[];
+    var limsup;
+    var val_act_slider;
+    var coorhist;
+    var coorhist1 = [];
+    var posAct;
+    var fechaAct;
+    var marcador2 = null;
+    var flightPath;
+
+    function holo1() {
+      var inicio = document.getElementById("inicio").value;
+       inicio= inicio.replace(" ", "");
+//alert(inicio)
+      var fin = document.getElementById("fin").value;
+      fin=fin.replace(" ","");
+
+
+
+//alert(fin)
+      var dat = inicio + fin;
+      //alert(dat);
+
+      if(inicio == ":00" || fin == ":00") {
+        alert("Por favor, ingrese un rango de fechas válido");
+      }
+      else {
+        var return_first = function () {
+        var tmp = null;
+        $.ajax({
+          'async': false,
+          'type': "POST",
+          'global': false,
+          'dataType': 'html',
+          'url': "server1.php",
+          'data' : { ini : inicio, fi : fin },
+          'success': function (data) {
+            tmp = data;
+          }
+        });
+
+        return tmp;
+        }();
+        //alert(return_first);
+        if(return_first == "") {
+          alert("No se encontró seguimiento en las fechas establecidas.Por favor Verifica que las fechas sean correctas");
+
+        }
+        else {
+          if (coorhist1 != []) {
+            //alert(coorhist1);
+            misaka = [];
+            polilinea();
+            initMap();
+          }
+          coorhist = return_first.split("\n");
+          limsup = coorhist.length - 1;
+          for(var k = 0; k < coorhist.length - 1; k++) {
+            coorhist1 = coorhist[k].split(" ");
+            refrescar_marcador(coorhist1[0], coorhist1[1], coorhist1[2] + " " + coorhist1[3]); // latitude, longitude, fechita
+          }
+
+          $('#ex6')
+          .slider('setAttribute', 'enabled', true)
+          .slider('refresh');
+          $('#ex6')
+          .slider('setAttribute', 'max', limsup)
+          .slider('refresh');
+        }
+      }
+    }
+
+    // With JQuery
+    $("#ex6").slider({
+      formatter: function(value) {
+      return value;
+      }
+    });
+    $("#ex6").on("slide", function(slideEvt) {
+      $("#ex6SliderVal").text(slideEvt.value);
+      val_act_slider = slideEvt.value;
+      mostrarFecha(val_act_slider);
+    });
+
+    function mostrarFecha(valslid) {
+      if (valslid != 0) {
+        posAct = coorhist[valslid - 1];
+        coorhist1 = posAct.split(" ");
+        fechaAct = coorhist1[2] + " " + coorhist1[3];
+        if (marcador2 != null) {
+          marcador2.setMap(null);
+        }
+        marcador2 = new google.maps.Marker({  // función de api para crear marcador
+        position: new google.maps.LatLng(coorhist1[0], coorhist1[1]), // posición con coor[0] y coor[1]
+        map: map,
+        title: fechAct, // Titulo para el marcador, es opcional.. no es necesario.. bla bla bla
+        icon: "style/mark2.png"
+       });
+        var longElement = document.getElementById("fechAct");
+        longElement.textContent = "Fecha: " + fechaAct;
+      }
+    }
+
+    function initMap() { // Inicio el mapa con los recursos que me da api
+      var mapDiv = document.getElementById('map2');
+      map = new google.maps.Map(mapDiv, {
+        center: new google.maps.LatLng(11.018055555556, -74.851111111111), // Establezco el centro en las coordenadas de la u, que obtuve de internet, puedo poner la que me da la syrus, pero de igual forma cuando actualice el valor de coor me va a mover el mapa a donde sea que se encuentre
+        zoom: 17, // hacemos zoom para acercar mapa
+        mapTypeId: google.maps.MapTypeId.ROADMAP//'terrain' // Bla, tipo id? sugerido por google maps api
+        , mapTypeControlOptions: {
+        style: google.maps.MapTypeControlStyle.HORIZONTAL_BAR,
+        position: google.maps.ControlPosition.TOP_CENTER
+    }, zoomControlOptions: {
+        position: google.maps.ControlPosition.LEFT_TOP
+    }
+      });
+      flightPath = new google.maps.Polyline({
+        path:misaka,
+        strokeColor:"#0000FF",
+        strokeOpacity:0.8,
+        strokeWeight:2
+      });
+      flightPath.setMap(map);
+    }
+
+    function refrescar_marcador(latitude, longitude, fechita) // creamos el marcador y lo vamos refrescando en la función "holo" cuando la llamamos con coor[0] y coor[1], ya que establecimos que los  parametros fueran latitude, longitude.
+    {
+      misaka.push(new google.maps.LatLng(latitude, longitude));
+      polilinea();
+      var marker = new google.maps.Marker({  // función de api para crear marcador
+        position: new google.maps.LatLng(latitude, longitude), // posición con coor[0] y coor[1]
+        map: map,
+        zoom: 17,icon:"style/mark2.png",
+        title: fechita.replace("undefined",""), // Titulo para el marcador, es opcional.. no es necesario.. bla bla bla
+       });
+      map.setCenter(new google.maps.LatLng(latitude, longitude)); // Movemos el centro hacia donde se encuentren los nuevos valores de coor[0] y coor[1]
+    }
+
+    function polilinea() {
+      flightPath.setPath(misaka);
+    }
+  </script>
+
+
+
+<script type="text/javascript">
+$(function() {
+    $("#inicio").daterangepicker({
+		drops:"down",
+        singleDatePicker: true,autolose:true,
+timePicker:true,
+        showDropdowns: true,
+		 timePicker24Hour: true,
+       locale: {
+            format: 'DD/MM/YYYY HH:mm:ss'
+},
+    },
+    function(start, end, label) {
+      console.log("New date range selected: ' + start.format('YYYY-MM-DD') + ' to ' + end.format('YYYY-MM-DD') + ' (predefined range: ' + label + ')");
+
+        //alert("You are " + end + " years old.");
+    });
+});
+
+
+$('#inicio').on('apply.daterangepicker', function(ev, picker) {
+
+    var new_start =  picker.startDate.clone().add(0, 'days');
+
+    $('#fin').daterangepicker({
+
+          singleDatePicker: true,
+           timePicker:true,
+            timePicker24Hour: true,
+
+
+            minDate: new_start,
+
+            locale: {
+        format: 'DD/MM/YYYY HH:mm:ss',
+        firstDay: 1
+      }
+    });
+
+});
+
+$(function() {
+    $("#fin").daterangepicker({
+		autoApply: true,
+
+
+          singleDatePicker: true,
+        showDropdowns: true,
+		timePicker: true,
+		 timePicker24Hour: true
+
+,	   locale: {
+            format: 'DD/MM/YYYY HH:mm:ss'
+},
+    },
+    function(start, end, label) {
+        var years = moment().diff(start, 'years');
+        //alert("You are " + years + " years old.");
+    });
+});
+
+
+
+
+
+</script>
+
+
+
+  <script async defer
+   src="http://maps.googleapis.com/maps/api/js?key=AIzaSyCREYEOrU09R-W-A0ByBlymc-pZWFuwLec&callback=initMap"> // Nos permite crear conexión con google api con la llave que no es necesaria de tenerla
+  </script>
+
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgCYlPBYNc2QrLNTQKPDX1CtmAUys5SzM&signed_in=true&libraries=places"></script>
+<script type="text/javascript">
+  google.maps.event.addDomListener(window,'load',intilize);
+    function intilize(){
+      var autocomplete = new google.maps.places.Autocomplete(document.getElementById('txtautocomplete'));
+    google.maps.event.addListener(autocomplete,'place_changed',function() {
+      var place = autocomplete.getPlace();
+      var location = "<b>Address</b>: " + place.formatted_address + "<br/>";
+      //location += "<b>Latitud</b>: " + place.geometry.location.lat() + "<br/>";
+      //location += "<b>Longitud</b>: " + place.geometry.location.lng();
+      var lat11 = place.geometry.location.lat();
+      var long74 = place.geometry.location.lng();
+      alert(lat11);
+      document.getElementById('lblResult').innerHTML = location
+    });
+    };
+</script>
+
+<label id="lblResult"></label>
+
+
+</body>
+</html>

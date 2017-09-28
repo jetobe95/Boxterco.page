@@ -1,0 +1,5460 @@
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+Traceback (most recent call last):
+  File "Sniffer.py", line 121, in <module>
+    main()
+  File "Sniffer.py", line 43, in main
+    s.bind((HOST,5030))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+python: can't open file 'sniffer.pu': [Errno 2] No such file or directory
+python: can't open file 'sniffer.py': [Errno 2] No such file or directory
+Traceback (most recent call last):
+  File "Sniffer.py", line 122, in <module>
+    main()
+  File "Sniffer.py", line 44, in main
+    s.bind((HOST,56303))
+  File "/usr/lib64/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+socket.error: [Errno 98] Address already in use
+La Ip privada es : 172.31.18.141
+ESCUCHANDO 
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262609+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:29
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262614+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:34
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262619+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:39
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262625+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:45
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262629+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:49
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262632+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:52
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262639+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:23:59
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262644+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:4
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262649+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:9
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262654+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:14
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262660+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:20
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262664+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:24
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262669+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:29
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262674+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:34
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262679+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:39
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262685+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:45
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262689+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:49
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262694+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:54
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262699+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:24:59
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262704+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:4
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262710+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:10
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262715+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:15
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262720+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:20
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262725+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:25
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262730+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:30
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262735+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:35
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262740+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:40
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262745+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:45
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262750+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:50
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262756+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:25:56
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262761+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:1
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262766+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:6
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262772+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:12
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262776+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:16
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262781+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:21
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262786+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:26
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262791+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:31
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262797+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:37
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262801+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:41
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262806+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:46
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262811+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:51
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262817+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:26:57
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262822+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:2
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262827+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:7
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262832+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:12
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262837+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:17
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262842+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:22
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262847+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:27
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262852+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:32
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262857+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:37
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262862+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:42
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262868+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:48
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262872+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:52
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262877+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:27:57
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262882+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:2
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262888+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:8
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262893+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:13
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262898+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:18
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262902+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:22
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262908+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:28
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262914+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:34
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262918+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:38
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262923+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:43
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262928+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:48
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262934+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:54
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262938+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:28:58
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262942+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:2
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262948+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:8
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262953+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:13
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262958+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:18
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262964+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:24
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262968+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:28
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262973+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:33
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262978+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:38
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262983+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:43
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262989+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:49
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262994+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:54
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968262999+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:29:59
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263004+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:4
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263009+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:9
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263015+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:15
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263019+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:19
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263024+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:24
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263029+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:29
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263035+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:35
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263039+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:39
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263044+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:44
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263049+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:49
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263055+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:55
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263059+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:30:59
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263064+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:4
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263069+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:9
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263075+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:15
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263080+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:20
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263084+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:24
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263089+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:29
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263094+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:34
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263099+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:39
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263105+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:45
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263109+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:49
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263114+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:54
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263119+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:31:59
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263125+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:5
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263130+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:10
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263135+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:15
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263140+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:20
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263146+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:26
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263150+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:30
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263155+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:35
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263160+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:40
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263166+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:46
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263170+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:50
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263175+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:32:55
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263181+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:1
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263186+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:6
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263191+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:11
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263196+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:16
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263202+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:22
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263207+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:27
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263212+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:32
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263217+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:37
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263222+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:42
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263228+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:48
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263233+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:53
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968263238+1101966-0748513600018032;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 17:33:58
+La fecha es 26/09/2017
+la velocidad es1.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266223+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:23:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266227+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:23:47
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266233+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:23:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266238+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:23:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266243+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266247+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266253+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266258+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266263+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266267+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266273+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266278+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266283+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266288+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266292+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266298+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:24:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266303+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266308+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266313+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266318+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266322+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:22
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266328+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:28
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266333+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266338+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266343+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266348+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266353+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266358+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:25:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266363+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266368+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266373+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266378+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266383+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266388+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:28
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266393+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266398+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266403+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266409+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:49
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266414+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:54
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266419+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:26:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266424+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:4
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266430+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266435+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:15
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266441+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266446+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266450+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:30
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266456+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266461+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266466+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:46
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266471+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266476+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:27:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266481+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:1
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266486+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266491+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266497+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:17
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266502+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:22
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266507+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266512+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:32
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266517+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:37
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266522+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:42
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266527+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:47
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266532+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266536+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:28:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266542+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266547+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266552+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:12
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266557+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:17
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266562+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:22
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266566+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266572+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:32
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266577+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:37
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266582+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:42
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266587+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:47
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266592+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266597+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:29:57
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266602+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266607+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266613+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266618+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266623+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266629+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:29
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266634+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:34
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266639+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:39
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266644+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:44
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266649+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:49
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266655+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:30:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266660+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:0
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266665+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266670+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266675+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:15
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266681+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266686+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266691+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266697+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:37
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266702+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:42
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266707+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:47
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266712+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266718+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:31:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266723+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266728+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266733+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266737+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:17
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266743+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266748+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:28
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266753+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266758+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266762+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:42
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266768+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266773+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266778+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:32:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266783+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266788+1101966-0748513600500011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:8
+La fecha es 26/09/2017
+la velocidad es50.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266793+1101966-0748513600300011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:13
+La fecha es 26/09/2017
+la velocidad es30.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266797+1101966-0748513600200011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:17
+La fecha es 26/09/2017
+la velocidad es20.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266803+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266808+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:28
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266813+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266818+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266823+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266828+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266833+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266838+1101966-0748513600100011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:33:58
+La fecha es 26/09/2017
+la velocidad es10.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266843+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266848+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266853+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266858+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266864+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:24
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266869+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:29
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266874+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:34
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266878+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266884+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:44
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266889+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:49
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266893+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266899+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:34:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266904+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:4
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266909+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:9
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266914+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:14
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266919+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:19
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266924+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:24
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266929+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:29
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266934+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:34
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266939+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:39
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266944+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:44
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266948+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266954+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:54
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266959+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:35:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266964+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:4
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266969+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:9
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266974+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:14
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266980+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:20
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266985+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266990+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:30
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968266995+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267000+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:40
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267005+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267010+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267015+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:36:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267020+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:0
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267025+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267030+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267035+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:15
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267040+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:20
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267045+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267050+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:30
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267055+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267060+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:40
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267064+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:44
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267070+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267075+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:37:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267080+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:0
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267085+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267090+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267096+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267101+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267106+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267111+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267115+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267121+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267126+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:46
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267132+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267137+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:38:57
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267142+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267147+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267152+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:12
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267158+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267163+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267168+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:28
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267173+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267178+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267184+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:44
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267189+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:49
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267194+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:54
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267199+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:39:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267204+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:4
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267210+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267216+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267221+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267226+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267231+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267235+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267241+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267246+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:46
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267251+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267256+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:40:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267260+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:0
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267266+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267271+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267276+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267281+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267285+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267291+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267296+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267301+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267305+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267311+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267316+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:41:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267321+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:1
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267325+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267331+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267336+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267341+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267346+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267351+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267356+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267361+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267366+1101966-0748513600100011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:46
+La fecha es 26/09/2017
+la velocidad es10.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267371+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267376+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:42:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267382+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267387+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267392+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:12
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267398+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267403+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267408+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:28
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267413+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267418+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267424+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:44
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267429+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:49
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267434+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:54
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267439+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:43:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267445+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267450+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267454+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:14
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267460+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:20
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267465+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267470+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:30
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267475+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267480+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:40
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267485+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267490+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267495+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:44:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267500+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:0
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267505+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267510+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267515+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:15
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267519+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:19
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267525+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267530+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:30
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267535+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267540+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:40
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267545+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267550+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267555+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:45:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267560+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:0
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267566+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267571+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267576+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267581+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267585+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267591+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267596+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267601+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267605+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267611+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267616+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:46:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267621+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:1
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267626+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267631+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267636+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267641+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267646+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267651+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267656+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267661+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267666+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:46
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267670+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267676+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:47:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267681+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:1
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267686+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267691+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267696+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267700+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:20
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267706+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267711+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267716+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267721+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267727+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:47
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267732+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267737+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:48:57
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267742+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267748+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267753+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267758+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267763+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267767+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267773+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267778+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267783+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267788+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267793+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267798+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:49:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267803+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267808+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267813+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267818+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:18
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267823+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:23
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267827+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267833+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:33
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267838+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267843+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267848+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267852+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267858+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:50:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267863+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267868+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:8
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267873+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:13
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267879+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:19
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267884+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:24
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267889+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:29
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267894+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:34
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267899+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:39
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267905+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267910+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267915+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267919+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:51:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267925+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:5
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267930+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:10
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267935+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:15
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267940+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:20
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267945+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267951+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:31
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267956+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:36
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267961+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:41
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267966+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:46
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267971+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267976+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:52:56
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267981+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:1
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267986+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267991+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968267996+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268001+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:21
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268006+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:26
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268012+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:32
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268017+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:37
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268022+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:42
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268027+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:47
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268031+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:51
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268037+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:53:57
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268042+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268047+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268052+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:12
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268057+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:17
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268062+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:22
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268067+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268072+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:32
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268077+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:37
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268083+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268088+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268093+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268098+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:54:58
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268103+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:3
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268109+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:9
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268114+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:14
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268119+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:19
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268124+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:24
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268129+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:29
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268135+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268140+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:40
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268145+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:45
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268150+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:50
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268155+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:55:55
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268161+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:1
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268166+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:6
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268171+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:11
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268176+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:16
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268182+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:22
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268187+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268192+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:32
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268197+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:37
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268202+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:42
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268206+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:46
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268212+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:52
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268217+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:56:57
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268222+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:2
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268227+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:7
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268232+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:12
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268237+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:17
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268242+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:22
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268247+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:27
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268252+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:32
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268258+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:38
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268263+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:43
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268268+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:48
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268273+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:53
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268279+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:57:59
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268284+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:4
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268289+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:9
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268295+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:15
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268300+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:20
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268305+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:25
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268310+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:30
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268315+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitud -74.85136
+la hora es 18:58:35
+La fecha es 26/09/2017
+la velocidad es0.0
+ok Db
+No Conecta
+ESCUCHANDO 
+Mensaje recibido: >REV001968268320+1101966-0748513600000011;ID=GRUPOBOLI<
+
+Procesando...
+Latitud es 11.01966  Longitu
